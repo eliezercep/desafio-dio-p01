@@ -1,0 +1,1 @@
+Estou fazendo uma escritado no arquivo, usando o nano do Git Bash.
